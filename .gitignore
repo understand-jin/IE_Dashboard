@@ -1,7 +1,7 @@
 # 데이터 파일
 Input_data/
-Output_data/
 *.csv
+!Output_data/*.csv
 
 # 민감 정보
 .streamlit/secrets.toml
