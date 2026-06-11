@@ -1,4 +1,8 @@
-selenium
-webdriver-manager
-schedule
+streamlit
+pandas
+openpyxl
 anthropic
+requests
+urllib3
+python-dateutil
+numpy
