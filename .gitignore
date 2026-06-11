@@ -1,0 +1,18 @@
+# 데이터 파일
+Input_data/
+Output_data/
+*.csv
+
+# 민감 정보
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Claude 내부 파일
+.claude/
+
+# 기타
+error_캡처.png
